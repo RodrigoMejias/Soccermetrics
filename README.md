@@ -11,7 +11,7 @@ c.) Predicting the winner of the 2018 World Cup - " "
 
 
 ## Data:
-This dataset contains 39,054 results of international soccer matches from 1972 onwards. 
+This dataset contains 39,054 results of international soccer matches from 1872 onwards. 
 Mart Jurisoo was kind enough to post this dataset on Kaggle after pulling it from wikipedia, fifa.com, rsssf.com and individual associations' websites: [https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017] 
 
 results.csv includes the following columns:
