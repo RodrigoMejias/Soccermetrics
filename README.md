@@ -35,6 +35,6 @@ country - name of the country where the match was played
 neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue
 
 
-Data Exploration & Visualization:
+##Data Exploration & Visualization:
 
-Predicting the winner of the 2018 World Cup:
+##Predicting the winner of the 2018 World Cup:
