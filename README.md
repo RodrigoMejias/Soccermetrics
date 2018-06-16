@@ -2,9 +2,13 @@
 Exploring historical soccer data and predicting the World Cup 2018 results
 
 This repository contains three parts:
+
 a.) Data - "results.csv"
+
 b.) Data Exploration & Visualization - " "
+
 c.) Predicting the winner of the 2018 World Cup - " "
+
 
 ## Data:
 This dataset contains 39,054 results of international soccer matches from 1972 onwards. 
