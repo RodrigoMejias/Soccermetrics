@@ -5,7 +5,7 @@ This repository contains three parts:
 
 a.) Data - "results.csv"
 
-b.) Data Exploration & Visualization - " "
+b.) Data Exploration & Visualization - "Soccermetrics- Visualization"
 
 c.) Predicting the winner of the 2018 World Cup - " "
 
