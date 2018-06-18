@@ -41,16 +41,19 @@ I wanted a explore the "International football results from 1872 to 2018" datase
 To begin with, I checked that the dataset was complete (it was) and added a few columns that would aid with my analysis:
 Winning team, Losing Team, Total Goals Scored, Year and Decade
 
-In the current version of the notebook I have the following visualizations:
-Top 10 Countries with Most Games Won
-Top 10 Countries with Most Competitive Games Won (no friendlies)
-Top 10 Countries by Decade
+
+In the current version of the notebook I have the following visualizations: 
+Top 10 Countries with Most Games Won, 
+Top 10 Countries with Most Competitive Games Won (no friendlies), 
+Top 10 Countries by Decade, 
 Goals per Game Ratio by Year
 
+
 In the future, I am planning on:
-Breaking down matches won by tournament type
-Tracking win percentages by team through the years
-Adding geographical analysis (continents)
+Breaking down matches won by tournament type, 
+Tracking win percentages by team through the years, 
+Adding geographical analysis (continents), 
 Looking at statistical differences results for teams playing home vs away
+
 
 ## Predicting the winner of the 2018 World Cup:
