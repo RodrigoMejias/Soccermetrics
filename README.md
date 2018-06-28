@@ -36,7 +36,7 @@ neutral - TRUE/FALSE column indicating whether the match was played at a neutral
 
 
 ## [Data Exploration & Visualization:](https://github.com/RodrigoMejias/Soccermetrics/blob/master/Soccermetrics%20-%20Visualization.ipynb)
-I wanted a explore the "International football results from 1872 to 2018" dataset and examine how the game has changed over the years in terms of goals scored, nation participation, which countries were dominating different eras, and more.
+I wanted to explore the "International football results from 1872 to 2018" dataset and examine how the game has changed over the years in terms of goals scored, nation participation, which countries were dominating different eras, and more.
 
 To begin with, I checked that the dataset was complete (it was) and added a few columns that would aid with my analysis:
 Winning team, Losing Team, Total Goals Scored, Year and Decade
